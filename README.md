@@ -16,7 +16,7 @@ Once inside a GIS software, the shapefile attributes are as follows:
   THRC = Thoracic Region,
   LMBR = Lumbar Region,
   HNDL = Hindleg Region,
-  CADL = Caudal Region,
+  CADL = Caudal Region
 
 wms_excavation.las, is a photogrammetric model of the bonebed and excavation block from both 2022 and 2023 seasons. 
 
