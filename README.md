@@ -23,7 +23,7 @@ wms_excavation.las, is a photogrammetric model of the bonebed and excavation blo
 # Citation
 When using the datasets from this repository please cite the following:
 
-DePlate-Peterson, M., T.A. Surovell, S.R. Pelton, D.R. Garner, and S.A. Allaun. 2026. The Warren Mammoth site (48LA3800): A Non-Cultural Terminal Pleistocene Mammoth from Southeastern Wyoming. Journal of Quaternary Science, In Prep.
+DePlata-Peterson, M., T.A. Surovell, S.R. Pelton, D.R. Garner, and S.A. Allaun. 2026. The Warren Mammoth site (48LA3800): A Non-Cultural Terminal Pleistocene Mammoth from Southeastern Wyoming. Journal of Quaternary Science, In Prep.
 
 # Software Requirements
 GIS Software and
